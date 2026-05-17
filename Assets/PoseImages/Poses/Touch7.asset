@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71d9ceb31a4fc09459812ca890476e6a, type: 3}
+  m_Name: Touch7
+  m_EditorClassIdentifier: Assembly-CSharp::TargetPose
+  poseName: Much 3
+  leftHandFromHead: {x: 0, y: -0.7, z: -0.1}
+  rightHandFromHead: {x: 0.05, y: -0.05, z: -0.1}
+  allowedDistance: 0.25
+  recordedArmSpan: 0.7
+  poseImage: {fileID: 21300000, guid: 7cfe2ef17d7922f4aaa1e50bac056357, type: 3}
